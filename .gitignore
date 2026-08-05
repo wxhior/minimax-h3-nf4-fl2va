@@ -1,0 +1,9 @@
+.venv/
+__pycache__/
+*.py[cod]
+*.log
+outputs/
+models/
+*.mp4
+*.safetensors
+.DS_Store

@@ -1,0 +1,6 @@
+# Install DiffSynth-Studio from source:
+#   git clone https://github.com/modelscope/DiffSynth-Studio.git
+#   pip install -e DiffSynth-Studio
+#
+# Core runtime deps are provided by DiffSynth-Studio (torch, etc.).
+torch
